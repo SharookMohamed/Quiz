@@ -13,7 +13,7 @@ This is a simple multiple quiz application with a status bar, displaying questio
 ## Screenshots
 
 ### Poll Interface
-![Poll Interface](https://github.com/SharookMohamed/SimplePoll/blob/master/Screenshot%20(78).png)
+![Poll Interface]([https://github.com/SharookMohamed/SimplePoll/blob/master/Screenshot%20(78).png](https://github.com/SharookMohamed/Quiz/blob/master/quiz-img1))
 
 
 ### Poll Results
