@@ -9,13 +9,16 @@ This is a simple multiple quiz application with a status bar, displaying questio
 - Displays correct answers after each question.
 - User-friendly and responsive interface.
 
-## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+## Screenshots
+
+### Poll Interface
+![Poll Interface](https://github.com/SharookMohamed/SimplePoll/blob/master/Screenshot%20(78).png)
+
+
+### Poll Results
+![Poll Results](https://github.com/SharookMohamed/SimplePoll/blob/master/Screenshot%20(80).png)
+
 
 ## Installation
 
