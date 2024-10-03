@@ -12,12 +12,12 @@ This is a simple multiple quiz application with a status bar, displaying questio
 
 ## Screenshots
 
-### Poll Interface
+### Quiz Interface
 ![Poll Interface](https://github.com/SharookMohamed/Quiz/blob/master/quiz-img1)
 
 
-### Poll Results
-![Poll Results](https://github.com/SharookMohamed/SimplePoll/blob/master/Screenshot%20(80).png)
+### Quiz Results
+![Poll Results](https://github.com/SharookMohamed/Quiz/blob/master/quiz-img2)
 
 
 ## Installation
